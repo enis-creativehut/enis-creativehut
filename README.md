@@ -2,4 +2,4 @@
 - 👀 I’m interested in: frontend development using React and micro-services development using Node
 - 🌱 Currently learning: Node MicroService development and continuously improving my javascript chops
 - 💞️ Looking to collaborate on: Node MicroService and React UI development
-- 📫 Reach me: enis.s@outlook.com
+- 📫 Reach me: enis@creativehut.com
