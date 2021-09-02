@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enis-creativehut
 - 👀 I’m interested in: frontend development using React and micro-services development using Node
 - 🌱 Currently learning: Node MicroService development and continuously improving my javascript chops
-- 💞️ Looking to collaborate on: Node Micro-Service and React UI development
+- 💞️ Looking to collaborate on: Node MicroService and React UI development
 - 📫 Reach me: enis.s@outlook.com
